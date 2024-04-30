@@ -15,6 +15,7 @@ tester_and_graphs - тесты и графики
 
 ## Построенные графики
 ## Время подготовки
+### *у наивного алгоритма - нулевое при любых данных
 ![image](https://github.com/mak48/algorithm_lab/assets/132274048/37878ac5-4a37-42af-b2c4-a888ac8a08b5)
 ## Время получения ответа
 ![image](https://github.com/mak48/algorithm_lab/assets/132274048/d2c0f1bc-2344-461f-98ca-733591b1098d)
